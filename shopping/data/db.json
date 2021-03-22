@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "item1",
+      "src": "/images/1.jpg",
+      "price": "999"
+    },
+    {
+      "title": "item2",
+      "src": "/images/2.jpg",
+      "price": "999"
+    },
+    {
+      "title": "item3",
+      "src": "/images/3.jpg",
+      "price": "999"
+    },
+    {
+      "title": "item4",
+      "src": "/images/4.jpg",
+      "price": "999"
+    }
+  ]
+}
